@@ -1,0 +1,1 @@
+# Calls-a-REST-API-and-automatically-stores-the-JSON-response-into-Azure-Blob-Storage.
